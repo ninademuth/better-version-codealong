@@ -1,6 +1,6 @@
 // hello world, this is my message!
 // this is my second message
 
-// this is my fourth message
+// I think this project can use this feature that i just coded.
 
 // this is my sixth message
